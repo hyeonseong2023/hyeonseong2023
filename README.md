@@ -15,7 +15,7 @@
 
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
-    <a href="https://bi-sz.github.io/portfolio/">
+    <a href="https://www.canva.com/design/DAFnFlT_eO0/IFCHNw808xMICTFnc5ZIxw/view?utm_content=DAFnFlT_eO0&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel">
     <img src="https://img.shields.io/badge/Portfolio-FFC0CB?style=for-the-badge"> 
     </a>
     <a href="https://velog.io/@528528abcd">

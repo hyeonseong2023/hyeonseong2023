@@ -11,7 +11,7 @@
 
 
 
-| ![hyeon's GitHub stats](images/userstats.svg) | ![Top Langs](images/languages.svg) |
+| ![hyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonseong2023&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonseong2023&layout=compact&theme=default&hide_border=true) |
 | ------------- | ------------- |
 <br>
 

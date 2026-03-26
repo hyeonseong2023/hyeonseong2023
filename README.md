@@ -11,7 +11,7 @@
 
 
 
-| ![hyeon's GitHub stats](https://ghstats.dev/api/card?username=hyeonseong2023&theme=light&hide_border=true&custom_title=hyeon%27s+GitHub+stats) | ![Top Langs](https://ghstats.dev/api/langs?username=hyeonseong2023&theme=light&hide_border=true&custom_title=Top+Langs) |
+| ![hyeon's GitHub stats](https://ghstats.dev/api/card?username=hyeonseong2023&theme=light&hide_border=true&hide=trend,grade&custom_title=hyeon%27s+GitHub+stats) | ![Top Langs](https://ghstats.dev/api/langs?username=hyeonseong2023&theme=light&hide_border=true&custom_title=Top+Langs) |
 | ------------- | ------------- |
 <br>
 

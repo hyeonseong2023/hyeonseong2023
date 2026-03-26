@@ -11,7 +11,7 @@
 
 
 
-| ![hyeon's GitHub stats](https://ghstats.dev/api/card?username=hyeonseong2023&theme=light&hide_border=true&hide=trend,grade&custom_title=hyeon%27s+GitHub+stats) | ![Top Langs](https://ghstats.dev/api/langs?username=hyeonseong2023&theme=light&hide_border=true&custom_title=Top+Langs) |
+| ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hyeonseong2023&theme=github&utcOffset=9) | ![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hyeonseong2023&theme=github) |
 | ------------- | ------------- |
 <br>
 

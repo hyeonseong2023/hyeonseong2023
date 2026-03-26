@@ -9,10 +9,6 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=hyeonseong2023&label=Profile+Views&color=68f9ef&style=flat)](https://github.com/hyeonseong2023)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=hyeonseong2023&hide_border=true&date_format=%5BY.%5Dn.j&mode=weekly)](https://git.io/streak-stats)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hyeonseong2023&theme=github-compact&hide_border=true&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
 <br>
 
 ## 💻 DEV's log 💻

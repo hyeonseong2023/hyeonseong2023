@@ -11,7 +11,7 @@
 
 
 
-| ![hyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonseong2023&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonseong2023&layout=compact&theme=default&hide_border=true) |
+| ![hyeon's GitHub stats](https://ghstats.dev/api/card?username=hyeonseong2023&theme=light&hide_border=true&custom_title=hyeon%27s+GitHub+stats) | ![Top Langs](https://ghstats.dev/api/langs?username=hyeonseong2023&theme=light&hide_border=true&custom_title=Top+Langs) |
 | ------------- | ------------- |
 <br>
 
